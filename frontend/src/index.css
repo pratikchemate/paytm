@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.background {
+  width: 100%;
+  height: 100vh;
+  background-image: url("/paytm_b.jpg");
+  background-size: cover;
+  background-position: center;
+}
